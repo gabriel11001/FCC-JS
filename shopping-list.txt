@@ -1,0 +1,6 @@
+const myList = [];
+myList[0] = ["Chocolate Bar", 15];
+myList[1] = ["Cerveja", 200];
+myList[2] = ["Carne", 5];
+myList[3] = ["Carvao", 1];
+myList[4] = ["Cigarro", 1];
